@@ -26,7 +26,7 @@ using System.Collections.Generic;
  * REFACTOR
  * 
 */
-namespace SceneEditorExtras
+namespace ScenePhysicsImplementer
 {
     class SCEConstraintSet
     {

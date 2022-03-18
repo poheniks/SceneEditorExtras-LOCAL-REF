@@ -5,7 +5,7 @@ using TaleWorlds.Core;
 using TaleWorlds.Engine;
 using System.Collections.Generic;
 
-namespace SceneEditorExtras
+namespace ScenePhysicsImplementer
 {
     public static class SCEConstraintLib
     {

@@ -4,7 +4,7 @@ using TaleWorlds.Core;
 using TaleWorlds.Engine;
 using System.Collections.Generic;
 
-namespace SceneEditorExtras
+namespace ScenePhysicsImplementer
 {
     //force = mass * acceleration
     //torque = moment of inertia * rotational accel

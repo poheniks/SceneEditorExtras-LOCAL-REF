@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using TaleWorlds.Engine;
 using TaleWorlds.Library;
 
-namespace SceneEditorExtras
+namespace ScenePhysicsImplementer
 {
     public static class SCEMath
     {

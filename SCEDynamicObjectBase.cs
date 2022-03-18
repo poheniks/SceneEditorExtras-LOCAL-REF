@@ -9,7 +9,7 @@ using TaleWorlds.GauntletUI.PrefabSystem;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace SceneEditorExtras
+namespace ScenePhysicsImplementer
 {
     /* NOTES
 
